@@ -1,8 +1,7 @@
-# Browser Automation with Azure AI Foundry
-
+# QA Browser Automation with Azure AI Agents and Gherkin
 This repository demonstrates how to use Azure AI Foundry's Browser Automation tool for automated web testing and QA workflows using Gherkin scenarios.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 - **`ai_agent_qa_gherkin_demo.ipynb`** - Main demonstration notebook that:
   - Creates Gherkin feature files for different test scenarios (Switzerland, Germany, and fictional Latveria)
